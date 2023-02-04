@@ -27,3 +27,8 @@ The steps are broadly divided into below steps. The sub steps are also listed wh
 
 **Model Evaluation:** We need to evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent. We need to choose an appropriate evaluation metric which reflects this business goal.
 
+## contact 
+Nikhil R  – nikhilram1010@gmail.com
+ 
+ You can find me here at:
+[LinkedIn](https://www.linkedin.com/in/nikhil11r/)
